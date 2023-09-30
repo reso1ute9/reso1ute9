@@ -72,3 +72,6 @@ Here are some ideas to get you started:
   </a> 
 
 </p>
+
+
+[![Guoxin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reso1ute9&theme=react)](https://github.com/reso1ute9/github-readme-activity-graph)
