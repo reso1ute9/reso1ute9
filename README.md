@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=reso1ute9&theme=oldie&rank=A,S,SS,SSS)](https://github.com/reso1ute9/github-profile-trophy)
  
-<img align="right" alt="img" src="https://t10.baidu.com/it/app=49&f=JPEG&fm=173&fmt=auto&u=655123614%2C112773701?w=562&h=418&s=CBACB2455CD2C6470A29189C03008023" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/reso1ute9/reso1ute9/blob/main/github_profile_bg1.jpg" width="50%" height="auto" />
  
  
 #### 🌱 Things I am currently working on: 
