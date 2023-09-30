@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github page! 
 
 <!--
 **reso1ute9/reso1ute9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,7 @@ Here are some ideas to get you started:
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/reso1ute9)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:guoxin_zhang@outlook.com)
- 
-Welcome to my Github page! 
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=reso1ute9&theme=oldie&rank=A,S,SS,SSS)](https://github.com/reso1ute9/github-profile-trophy)
  
@@ -71,14 +70,5 @@ Welcome to my Github page!
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="80" height="80"/> 
   </a> 
-  
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/> 
-  </a>
-  
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80"/> 
-  </a> 
-  
-  
+
 </p>
