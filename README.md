@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:guoxin_zhang@outlook.com)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=reso1ute9&theme=oldie&rank=C,B,A,S,SS,SSS)](https://github.com/reso1ute9/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=reso1ute9&theme=oldie&rank=B,A,AA,AAA,S,SS,SSS)](https://github.com/reso1ute9/github-profile-trophy)
  
 <img align="right" alt="img" src="https://github.com/reso1ute9/reso1ute9/blob/main/github_profile_bg1.jpg" width="50%" height="auto" />
  
